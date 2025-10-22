@@ -1,0 +1,65 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+	color: red;
+    width: 300px;
+    text-align: right;
+    text-decoration: underline;
+}
+
+td {
+	width: 400px;
+	height: 300px;
+    text-align: center;
+}
+
+ul li i{
+    color: red;
+}
+
+p i{
+    color: green;
+}
+
+li>b{
+    color: red;
+}
+
+.xxx {
+    font-size: 30px;
+}
+
+.b1 {
+    color: red;
+}
+
+.b2 {
+    color: green;
+}
+
+.header {
+	color: red;
+}
+
+h2.header{
+    font-size: 30px;
+}
+
+h3.header{
+    font-size: 40px;
+}
+
+.eee i {
+    color:red;
+}
+
+.eee .bbb {
+	color: red;
+}
+
+.eee h2 {
+	color: red;
+}
