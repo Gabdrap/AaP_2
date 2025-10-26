@@ -63,3 +63,24 @@ h3.header{
 .eee h2 {
 	color: red;
 }
+
+#elem1 {
+    color: red;
+}
+
+#elem2 {
+    color: green;
+}
+
+#elem3 {
+    color: blue;
+}
+
+#block {
+    color:rgb(35, 12, 209);
+}
+
+.class {
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
