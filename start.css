@@ -76,11 +76,10 @@ h3.header{
     color: blue;
 }
 
-#block {
+#blk p{
     color:rgb(35, 12, 209);
 }
 
-.class {
+.text {
     font-size: 100px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
