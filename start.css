@@ -15,3 +15,124 @@ td {
 	height: 300px;
     text-align: center;
 }
+
+ul li i{
+    color: red;
+}
+
+p i{
+    color: green;
+}
+
+li>b{
+    color: red;
+}
+
+.xxx {
+    font-size: 30px;
+}
+
+.b1 {
+    color: red;
+}
+
+.b2 {
+    color: green;
+}
+
+.header {
+	color: red;
+}
+
+h2.header{
+    font-size: 30px;
+}
+
+h3.header{
+    font-size: 40px;
+}
+
+.eee i {
+    color:red;
+}
+
+.eee .bbb {
+	color: red;
+}
+
+.eee h2 {
+	color: red;
+}
+
+#elem1 {
+    color: red;
+}
+
+#elem2 {
+    color: green;
+}
+
+#elem3 {
+    color: blue;
+}
+
+#blk p{
+    color:rgb(35, 12, 209);
+}
+
+.text {
+    font-size: 100px;
+}
+
+#elem h2{
+    color:darkviolet;
+}
+
+#elem text{
+    font-size: xx-small;
+    color: plums;
+}
+
+#elem li.text{
+    color: lavenderblush;
+}
+
+.eee.zzz.ccc{
+    color: cornflowerblue;
+}
+
+.bbb.zzz {
+	color: red;
+}
+
+div p{
+    color: forestgreen;
+}
+
+div h2{
+    color: skyblue;
+}
+
+#block .bbb{
+    color: olive;
+}
+
+.fff h2.bbb{
+    color: mediumseagreen;
+}
+
+#elem + li{
+    color: wheat;
+}
+
+.elem + li{
+    color: brown;
+}
+
+#elem ~ li{
+    color: turquoise;
+}
+
+main *{
+    color: royalblue;
+}
